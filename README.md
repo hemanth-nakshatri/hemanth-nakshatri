@@ -1,4 +1,4 @@
-- Pursuing MS in Electrical and Computer Engineering: Machine Learning and Signal processing @ [University of Wisconsin - Madison]([efgh](https://www.wisc.edu/))
+- Pursuing MS in Electrical and Computer Engineering: Machine Learning and Signal processing @ [University of Wisconsin - Madison](https://www.wisc.edu/)
 - Website: [Hemanth Sridhar Nakshatri](https://sites.google.com/view/hemanth-sridhar-nakshatri)
 - My latest resume can be found [here]([here](https://drive.google.com/file/d/1MCf7vztT-m3B36cxqXejl-HK6_bS-T-_/view?usp=sharing))
 - 📫 How to reach me: nakshatri@wisc.edu
