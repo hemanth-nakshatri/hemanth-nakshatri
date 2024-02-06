@@ -1,7 +1,7 @@
 - Pursuing MS in Electrical and Computer Engineering: Machine Learning and Signal processing @ [University of Wisconsin - Madison](https://www.wisc.edu/)
 - Website: [Hemanth Sridhar Nakshatri](https://sites.google.com/view/hemanth-sridhar-nakshatri)
 - LinkedIn: [Hemanth Nakshatri](https://www.linkedin.com/in/hemanth-nakshatri/)
-- My latest resume can be found [here]([here](https://drive.google.com/file/d/1MCf7vztT-m3B36cxqXejl-HK6_bS-T-_/view?usp=sharing))
+- My latest resume can be found [here](https://drive.google.com/file/d/11dASPeYRIf1JqsR-79paIwGoxM0b1yTA/view?usp=sharing)
 - 📫 How to reach me: nakshatri@wisc.edu
 
 <!--
