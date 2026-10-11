@@ -1,24 +1,22 @@
-# Hi, I'm Hemanth Sridhar Nakshatri 👋
+# Hemanth Sridhar Nakshatri
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hemanth--nakshatri.github.io-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://hemanth-nakshatri.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemanth--nakshatri-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-nakshatri)
-[![Resume](https://img.shields.io/badge/Resume-PDF-dc2626?style=flat&logo=adobeacrobatreader&logoColor=white)](https://hemanth-nakshatri.github.io/resume.pdf)
-[![Email](https://img.shields.io/badge/Email-hemans992%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:hemans992@gmail.com)
+[Website](https://hemanth-nakshatri.github.io) &nbsp;&bull;&nbsp; [Resume (PDF)](https://hemanth-nakshatri.github.io/resume.pdf) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/hemanth-nakshatri) &nbsp;&bull;&nbsp; [Email](mailto:hemans992@gmail.com)
 
-**Cloud Engineer II @ Hewlett Packard Enterprise (HPE)** | Systems & Generative AI  
-Master of Science in Electrical & Computer Engineering (Machine Learning & Signal Processing) &mdash; **University of Wisconsin&ndash;Madison**
+**Cloud Engineer II at Hewlett Packard Enterprise (HPE)** | Systems & Generative AI  
+Master of Science in Electrical & Computer Engineering (Machine Learning & Signal Processing), **University of Wisconsin&ndash;Madison**
 
 ---
 
-### 🚀 What I Do
-- **Multi-Agent Systems & GenAI:** Primary contributor building HPE's **Agentic Observability Harness** on OpsRamp (comparable to AWS DevOps Agent) &mdash; orchestrating **600+ tools** via dynamic tool selection, context-aware routing, and the **Model Context Protocol (MCP)**.
+## Engineering Focus & Production Work
+
+- **Multi-Agent Systems & GenAI:** Primary contributor building HPE's **Agentic Observability Harness** on OpsRamp (comparable in scope to AWS DevOps Agent) &mdash; orchestrating **600+ tools** via dynamic tool selection, context-aware routing, and the **Model Context Protocol (MCP)**.
 - **Continuous Learning & Agentic Memory:** Architecting adaptive memory engines that retain past investigation outcomes, learn from corrective feedback, and adapt personalized triage paths for automated Root Cause Analysis (RCA).
 - **Distributed Telemetry Infrastructure:** Scaling event streaming and data persistence backends using **Apache Kafka, Redis, Apache Cassandra, and Elasticsearch** to accelerate Mean Time to Diagnosis (MTTD) to under 10 minutes.
 - **Deep Tech & Computational Imaging:** Published 3 peer-reviewed journal papers (JINST, IEEE TCI, JASA) from research with the **Indian Institute of Science (IISc)** on complex-valued neural networks and medical imaging reconstruction.
 
 ---
 
-### 📜 Patents & Peer-Reviewed Publications
+## Patents & Selected Publications
 
 1. **U.S. Patent Pending (2025):**  
    *Synchronized Context Management System for AI in IT Operations Management Applications*  
@@ -38,17 +36,9 @@ Master of Science in Electrical & Computer Engineering (Machine Learning & Signa
 
 ---
 
-### 🛠️ Technical Stack
+## Technical Skills
 
 - **Languages:** Python, Java, C, C++, SQL, MATLAB, Verilog
 - **Generative AI & Agents:** Multi-Agent Systems, Model Context Protocol (MCP), Agent-to-Agent (A2A), RAG, Prompt Engineering, LangChain, LangGraph, Google ADK
 - **Distributed Systems & Cloud:** Apache Kafka, Redis, Apache Cassandra, Elasticsearch, Docker, Kubernetes, Linux, Spring
 - **Machine Learning & Signal Processing:** PyTorch, TensorFlow, CUDA, Scikit-learn, Computer Vision, Time-Series Forecasting
-
----
-
-### 🌐 Connect With Me
-- 💻 **Personal Website:** [hemanth-nakshatri.github.io](https://hemanth-nakshatri.github.io)
-- 📄 **Curriculum Vitae:** [hemanth-nakshatri.github.io/resume.pdf](https://hemanth-nakshatri.github.io/resume.pdf)
-- 💼 **LinkedIn:** [linkedin.com/in/hemanth-nakshatri](https://linkedin.com/in/hemanth-nakshatri)
-- ✉️ **Email:** [hemans992@gmail.com](mailto:hemans992@gmail.com)
