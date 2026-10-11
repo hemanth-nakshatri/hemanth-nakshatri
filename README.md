@@ -1,20 +1,54 @@
-- Pursuing MS in Electrical and Computer Engineering: Machine Learning and Signal processing @ [University of Wisconsin - Madison](https://www.wisc.edu/)
-- Website: [Hemanth Sridhar Nakshatri](https://sites.google.com/view/hemanth-sridhar-nakshatri)
-- LinkedIn: [Hemanth Nakshatri](https://www.linkedin.com/in/hemanth-nakshatri/)
-- My latest resume can be found [here](https://drive.google.com/file/d/11dASPeYRIf1JqsR-79paIwGoxM0b1yTA/view?usp=sharing)
-- 📫 How to reach me: nakshatri@wisc.edu
+# Hi, I'm Hemanth Sridhar Nakshatri 👋
 
-<!--
-**hemanth-nakshatri/hemanth-nakshatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hemanth--nakshatri.github.io-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://hemanth-nakshatri.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hemanth--nakshatri-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-nakshatri)
+[![Resume](https://img.shields.io/badge/Resume-PDF-dc2626?style=flat&logo=adobeacrobatreader&logoColor=white)](https://hemanth-nakshatri.github.io/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-hemans992%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:hemans992@gmail.com)
 
-Here are some ideas to get you started:
+**Cloud Engineer II @ Hewlett Packard Enterprise (HPE)** | Systems & Generative AI  
+Master of Science in Electrical & Computer Engineering (Machine Learning & Signal Processing) &mdash; **University of Wisconsin&ndash;Madison**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- **Multi-Agent Systems & GenAI:** Primary contributor building HPE's **Agentic Observability Harness** on OpsRamp (comparable to AWS DevOps Agent) &mdash; orchestrating **600+ tools** via dynamic tool selection, context-aware routing, and the **Model Context Protocol (MCP)**.
+- **Continuous Learning & Agentic Memory:** Architecting adaptive memory engines that retain past investigation outcomes, learn from corrective feedback, and adapt personalized triage paths for automated Root Cause Analysis (RCA).
+- **Distributed Telemetry Infrastructure:** Scaling event streaming and data persistence backends using **Apache Kafka, Redis, Apache Cassandra, and Elasticsearch** to accelerate Mean Time to Diagnosis (MTTD) to under 10 minutes.
+- **Deep Tech & Computational Imaging:** Published 3 peer-reviewed journal papers (JINST, IEEE TCI, JASA) from research with the **Indian Institute of Science (IISc)** on complex-valued neural networks and medical imaging reconstruction.
+
+---
+
+### 📜 Patents & Peer-Reviewed Publications
+
+1. **U.S. Patent Pending (2025):**  
+   *Synchronized Context Management System for AI in IT Operations Management Applications*  
+   Nakshatri, Hemanth S., et al. (United States Patent Office)
+
+2. **Journal of Instrumentation (2025):**  
+   [*Low dose computed tomographic image reconstruction with advanced multi-encoder architecture*](https://iopscience.iop.org/article/10.1088/1748-0221/20/12/P12004)  
+   Isha Munjal, **Hemanth Nakshatri**, Jaya Prakash &middot; *JINST, Vol. 20, P12004 (IOP Publishing)*
+
+3. **IEEE Transactions on Computational Imaging (2023):**  
+   [*Complex Valued Long Short Term Memory Based Architecture for Frequency Domain Photoacoustic Imaging*](https://ieeexplore.ieee.org/abstract/document/10143260)  
+   **Hemanth S. Nakshatri**, Jaya Prakash &middot; *IEEE TCI, Vol. 9*
+
+4. **The Journal of the Acoustical Society of America (2022):**  
+   [*Model resolution matrix based deconvolution improves over non-quadratic penalization in frequency-domain photoacoustic tomography*](https://pubs.aip.org/asa/jasa/article-abstract/152/3/1345/2838702)  
+   **Hemanth S. Nakshatri**, Jaya Prakash &middot; *JASA, Vol. 152(3)*
+
+---
+
+### 🛠️ Technical Stack
+
+- **Languages:** Python, Java, C, C++, SQL, MATLAB, Verilog
+- **Generative AI & Agents:** Multi-Agent Systems, Model Context Protocol (MCP), Agent-to-Agent (A2A), RAG, Prompt Engineering, LangChain, LangGraph, Google ADK
+- **Distributed Systems & Cloud:** Apache Kafka, Redis, Apache Cassandra, Elasticsearch, Docker, Kubernetes, Linux, Spring
+- **Machine Learning & Signal Processing:** PyTorch, TensorFlow, CUDA, Scikit-learn, Computer Vision, Time-Series Forecasting
+
+---
+
+### 🌐 Connect With Me
+- 💻 **Personal Website:** [hemanth-nakshatri.github.io](https://hemanth-nakshatri.github.io)
+- 📄 **Curriculum Vitae:** [hemanth-nakshatri.github.io/resume.pdf](https://hemanth-nakshatri.github.io/resume.pdf)
+- 💼 **LinkedIn:** [linkedin.com/in/hemanth-nakshatri](https://linkedin.com/in/hemanth-nakshatri)
+- ✉️ **Email:** [hemans992@gmail.com](mailto:hemans992@gmail.com)
